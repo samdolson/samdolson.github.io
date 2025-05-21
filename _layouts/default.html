@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<body>
-  {% include nav.html %}
-  <main>{{ content }}</main>
-</body>  
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 </head>
+
 <body>
+  {% include nav.html %}
+
   <header>
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
   </header>
