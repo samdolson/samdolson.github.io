@@ -20,16 +20,9 @@
 <body>
   {% include nav.html %}
 
-  <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-  </header>
-
   <main>
     {{ content }}
   </main>
 
-  <footer>
-    <p>&copy; {{ site.author }} — {{ site.time | date: '%Y' }}</p>
-  </footer>
 </body>
 </html>
