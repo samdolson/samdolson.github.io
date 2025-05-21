@@ -15,3 +15,5 @@ vendor/
 # temporarily ignore gemfile.lock
 Gemfile.lock
 .Rproj.user
+.Rproj.user/
+*.Rproj
