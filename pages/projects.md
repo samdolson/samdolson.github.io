@@ -1,3 +1,4 @@
+
 Currently, I am only a co-author on the following paper: 
 
 [GREGORY: A Modified Generalized Regression Estimator Approach to Estimating Forest Attributes in the Interior Western US](https://doi.org/10.3389/ffgc.2021.763414)

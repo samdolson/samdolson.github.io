@@ -5,4 +5,4 @@ title: Welcome
 
 # Welcome
 
-Hi, I'm Sam Olson. I'm a statistics graduate student at Iowa State University.
+Thanks for visiting! You can learn more [about me](about.html), see my [projects](projects.html), or [get in touch](contact.html).

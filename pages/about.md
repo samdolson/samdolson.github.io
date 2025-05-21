@@ -1,9 +1,3 @@
----
-layout: default
-title: About
----
-
-# About Me
 
 I'm a statistics graduate student at Iowa State University.
 
