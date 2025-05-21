@@ -1,8 +1,8 @@
 ---
-layout: home-infographic
-title: Home
+layout: default
+title: Welcome
 ---
 
 # More Information To Come
 
-Text
+Hi, I'm Sam Olson. I'm a statistics graduate student with interests in ecological modeling, inference methods, and applied data science...

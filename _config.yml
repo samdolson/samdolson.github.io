@@ -5,30 +5,11 @@
 ##########
 
 ##########
-# URL VARIABLES [optional if using GitHub Pages!]
-#
-# url is site domain, full URL to the production location of your collection
-# on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
-# baseurl is path to location on the domain if necessary e.g. /digital/hjccc
-# on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
-# location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
-
-##########
 # SITE SETTINGS
 #
 title: "Personal Website"
 description: "This is a Real Headache"
 author: "Sam Olson"
-
-##########
-# COLLECTION SETTINGS
-#
-# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
-# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
 
 ##########
 # Site/Organization Branding 
